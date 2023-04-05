@@ -1,0 +1,1 @@
+<p>Aprendi a consumir dados da API ViaCEP por meio de um curso online oferecido pela Alura, onde foi criado uma funcionalidade que permite ao usuário inserir um CEP válido e, automaticamente, preencher os outros campos necessários. Em caso de CEP inválido, uma mensagem de erro é exibida para informar ao usuário.</p>
